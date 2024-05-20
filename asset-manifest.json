@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shahzaib-tv/static/css/main.f855e6bc.css",
+    "main.js": "/shahzaib-tv/static/js/main.661d86ea.js",
+    "static/js/453.e1a260ec.chunk.js": "/shahzaib-tv/static/js/453.e1a260ec.chunk.js",
+    "index.html": "/shahzaib-tv/index.html",
+    "main.f855e6bc.css.map": "/shahzaib-tv/static/css/main.f855e6bc.css.map",
+    "main.661d86ea.js.map": "/shahzaib-tv/static/js/main.661d86ea.js.map",
+    "453.e1a260ec.chunk.js.map": "/shahzaib-tv/static/js/453.e1a260ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.661d86ea.js"
+  ]
+}
